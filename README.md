@@ -1,5 +1,5 @@
 # netronapp-scraper
-Web Scraper for Netron.app
+Web Scraper for the [Netron.app](https://netron.app/) website to help extract information from your neural network architecture. 
 
 # Instructions
 
