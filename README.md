@@ -13,7 +13,7 @@ Web Scraper for Netron.app
 python run.py
 ```
 
-* Once the Netron.app website opens, please upload your neural network. 
+* Once the Netron.app website opens, please upload your model. 
 
 * After uploading your model, please click enter in your terminal
 
@@ -26,8 +26,16 @@ python run.py
 ## Helpful Commands
 
 * Your Chrome Version must match the chromedriver
-// Check Chrome Version
+
+* Check Chrome Version
+
+```bash
 google-chrome-stable --version
+```
+
 
 * Get Chrome Driver (might be from another website)
+
+```bash
 wget https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/linux64/chromedriver-linux64.zip
+```
